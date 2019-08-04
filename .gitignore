@@ -1,3 +1,7 @@
+# 排除IDEA和eclipse生成的文件
+.idea
+.project
+
 # Compiled class file
 *.class
 
